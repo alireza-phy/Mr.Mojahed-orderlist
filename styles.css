@@ -1,0 +1,38 @@
+table {
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #18171C;
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+}
+td {
+    vertical-align: top;
+    background-color: #26232C;
+    color:#78727C;
+    text-align: left;
+    padding-left: 10px;
+}
+.name {
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: left;
+}
+.explain {
+    font-size: 14px;
+    color:#9D9AA3;
+    text-align: left;
+    font-weight: lighter;
+    margin-bottom: 26px;
+}
+.clmn3 {
+
+    line-height: 10px;
+    /*vertical-align: center;*/
+}
