@@ -1,11 +1,16 @@
 table {
+    background-color:#18171C ;
     font-family: 'Roboto', sans-serif;
     margin: auto;
     width: 70%;
     text-align: center;
     border-collapse: collapse;
 }
-
+tr {
+    border: 2px solid #18171C;
+    border-left: 8px solid #18171C;
+    border-right: 8px solid #18171C;
+}
 th {
     background-color: #18171C;
     color: white;
@@ -35,4 +40,13 @@ td {
 
     line-height: 10px;
     /*vertical-align: center;*/
+}
+
+#bold td {
+    background-color: #2E2C39;
+    color: white;
+}
+#bold2 td {
+    background-color: #2E2C39;
+    color: white;
 }
